@@ -1,7 +1,8 @@
 window.addEventListener("keypress", check)
 
+// ctrl + backslash
 function check(e) {
-    if (e.which === 2) {
+    if (e.which === 28) {
         replaceText(document.body)
     } else {
         return
