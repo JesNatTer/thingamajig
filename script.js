@@ -1,7 +1,7 @@
 window.addEventListener("keypress", check)
 
 function check(e) {
-    if (e.which === 10) {
+    if (e.which === 2) {
         replaceText(document.body)
     } else {
         return
