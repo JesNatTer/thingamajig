@@ -8,5 +8,14 @@
             "js": ["script.js"],
             "css": ["styles.css"]
         }
-    ]
+    ],
+    "action" : {
+        "default_popup" : "popup.html",
+        "default_icon": {
+            "16": "/images/icon.jpg",
+            "32": "/images/icon.jpg",
+            "48": "/images/icon.jpg",
+            "128": "/images/icon.jpg"
+          }
+    }
 }
