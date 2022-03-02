@@ -17,5 +17,6 @@
             "48": "./images/q.png",
             "128": "./images/q.png"
           }
-    }
+    },
+    "host_permissions": ["http://*"],
 }
