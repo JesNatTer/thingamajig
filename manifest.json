@@ -9,6 +9,11 @@
             "css": ["styles.css"]
         }
     ],
+    "host_permissions": [
+        "https://*",
+        "http://*.google.com/",
+        "https://jesse-terblanche-portfolio.netlify.com"
+    ],
     "action" : {
         "default_popup" : "popup.html",
         "default_icon": {
@@ -17,6 +22,5 @@
             "48": "./images/q.png",
             "128": "./images/q.png"
           }
-    },
-    "host_permissions": ["http://*"],
+    }
 }
