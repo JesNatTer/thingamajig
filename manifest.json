@@ -12,10 +12,10 @@
     "action" : {
         "default_popup" : "popup.html",
         "default_icon": {
-            "16": "./images/monkey.png",
-            "32": "./images/monkey.png",
-            "48": "./images/monkey.png",
-            "128": "./images/monkey.png"
+            "16": "./images/q.png",
+            "32": "./images/q.png",
+            "48": "./images/q.png",
+            "128": "./images/q.png"
           }
     }
 }
